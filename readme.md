@@ -65,7 +65,3 @@ A real-time chat application backend built with Express.js, Socket.IO, and Prism
 ## Websocket Events
 
 The application uses Socket.IO for real-time messaging functionality.
-
-## License
-
-[MIT](LICENSE)
